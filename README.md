@@ -1,3 +1,3 @@
 # Neural-Network-Scratch
-##Building a Neural Network from scratch
+## Building a Neural Network from scratch
 
